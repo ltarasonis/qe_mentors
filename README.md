@@ -1,6 +1,6 @@
-# QE Mentor Lookup
+# Quantitative Economics – Find Your Mentor
 
-A static page where QE students enter their student number and see their mentor.
+A static page where Quantitative Economics (QE) students enter their student number and see their mentor.
 
 - `index.html` – the page
 - `data.js` – student number → mentor and year (generated; no names or e-mails)
